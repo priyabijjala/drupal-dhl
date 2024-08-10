@@ -1,0 +1,9 @@
+name: 'DHL Location Finder'
+type: module
+description: 'Provides a form to find DHL locations and filter them based on specific criteria.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:field
+  - drupal:text
+  - drupal:devel
